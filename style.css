@@ -1,0 +1,18 @@
+h1
+{
+    font-style: italic;
+    padding: 50px ;
+    text-align: center;
+
+}
+h3
+{
+    font-style: oblique;
+    text-align: center;
+}
+button
+{
+    margin-left: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
